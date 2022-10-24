@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/kmg0695/COMP3104#readme",
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
